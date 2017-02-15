@@ -1,1 +1,1 @@
-include ':app', ':ormliteandroidsqlcipher'
+include ':app', ':ormlite-android-sqlcipher'

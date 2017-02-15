@@ -11,9 +11,9 @@ android {
     defaultConfig {
         minSdkVersion 15
         targetSdkVersion 23
-        versionCode 448
-        versionName "4.48"
-        archivesBaseName = "ormlite-sqlcipher"
+        versionCode 1
+        versionName "1.0.0"
+        archivesBaseName = "ormlite-android-sqlcipher"
         version = android.defaultConfig.versionName
 
 
